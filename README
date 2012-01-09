@@ -1,0 +1,17 @@
+Pavel Romanovski is responsible for the files below :
+
+./src/chat.h
+./src/chat.c
+./src/chat_event.c
+./src/chat_event.h
+./src/chat_packet_message.c
+./src/chat_packet_message.h
+./src/constants.c
+./src/constants.h
+./src/contact.c
+./src/contact.h
+./src/main.c
+
+All other files belong to Patrick McDermott
+
+1/9/2012

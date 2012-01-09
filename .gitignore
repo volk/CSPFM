@@ -1,0 +1,12 @@
+# Swap and backup files
+.*.sw*
+.sw*
+*~
+tags
+
+# Object files
+*.o
+cs490
+
+#folders
+private/
